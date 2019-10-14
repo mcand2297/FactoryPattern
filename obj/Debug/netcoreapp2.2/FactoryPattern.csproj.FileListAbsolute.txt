@@ -1,0 +1,11 @@
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.deps.json
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.runtimeconfig.json
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.runtimeconfig.dev.json
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.dll
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.pdb
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.csprojAssemblyReference.cache
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.AssemblyInfoInputs.cache
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.AssemblyInfo.cs
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.dll
+E:\UdeC\10mosemestre\Arquitectura\1ercohorte\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.pdb
